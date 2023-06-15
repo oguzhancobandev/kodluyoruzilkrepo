@@ -1,12 +1,14 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo, içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-\img\kodluyoruz_logo.jpeg
+![img\1.jpg]
 
 
 
 # Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
+
+
 ``` git clone https://github.com/oguzhancobandev/kodluyoruzilkrepo.git ```
 
 # Usage
