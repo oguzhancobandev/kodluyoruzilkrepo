@@ -1,7 +1,8 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo, içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![kodluyoruz_logo.jpeg]
+![C:\Users\Hp\OneDrive\Masaüstü\kodluyoruz_logo.jpeg]
+
 
 # Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
@@ -13,6 +14,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız
 Linux için:
 ``` cd kodluyoruzilkrepo
 code .
+```
 
 # Contributing
 
