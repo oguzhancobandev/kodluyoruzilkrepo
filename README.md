@@ -9,6 +9,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo, içerisinde bir adet READM
 
 ``` git clone https://github.com/oguzhancobandev/kodluyoruzilkrepo.git ```
 
+
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız
 
